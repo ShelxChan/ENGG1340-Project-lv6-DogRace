@@ -65,4 +65,7 @@ g++ -o dograce main.cpp game.cpp dog.cpp track.cpp -std=c++11
 - `dog.h` and `dog.cpp` - Dog character class definition and implementation
 - `track.h` and `track.cpp` - Track display and management
 - `Makefile` - Project compilation script
-- `README.md` - Project documentation file 
+- `README.md` - Project documentation file
+
+## Author
+- [Shelx] - 5th version 
